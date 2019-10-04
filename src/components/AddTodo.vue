@@ -20,7 +20,6 @@ export default {
             e.preventDefault();
 
             const newTodo = {
-                id: 4,
                 title: this.title,
                 completed: false
             }
